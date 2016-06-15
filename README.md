@@ -1,7 +1,5 @@
 # Cdscat
 
-![](https://brainstomping.files.wordpress.com/2015/03/2001-monolith-interstellar-tars.jpg)
-
 Cdscat is catalog website based on Endurance Framework with MongoDB, Node.js, Sails and AngularJS. It is based on Docker containers.
 
 ## Prerequisite Tools
