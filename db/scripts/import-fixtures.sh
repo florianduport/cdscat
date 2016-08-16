@@ -1,1 +1,1 @@
-for filename in ../fixtures/*; do mongoimport -d mydb -c $filename  done
+for filename in ../fixtures/*; do mongoimport -d cdscat -c $filename  done

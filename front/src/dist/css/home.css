@@ -3,6 +3,7 @@
 }
 body {
   padding-top: 50px;
+  background: url('http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/asanoha-400px.png');
 }
 .owl-carousel-item {
   margin: 10px;
@@ -14,6 +15,9 @@ body {
 .owl-carousel-arrow {
   top: 49%;
   font-size: 2em;
+}
+.owl-carousel-item .row + .row {
+  margin-top: 15px;
 }
 .height300 {
   height: 300px;
